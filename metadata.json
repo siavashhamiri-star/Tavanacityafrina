@@ -1,0 +1,6 @@
+{
+  "name": "FarshBazaar",
+  "description": "سامانه فرش‌بازار، هوش مصنوعی احساسی نکسوز و طرح جامع ابرشهر توانا (متشکل از دو شهر نیو متاورسی همراز و آفرینا - ۶۵۰,۰۰۰ + ۶۵۰,۰۰۰ متر مربع)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
